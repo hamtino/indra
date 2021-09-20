@@ -1,6 +1,6 @@
 # indra
 
-para ejecutar la aplicacion ract hacer lo siguiente
+para ejecutar la aplicacion react hacer lo siguiente
 
 ### `npm install`
 
